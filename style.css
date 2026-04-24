@@ -59,7 +59,7 @@
 }
 
 body {
-    background-color: #FFDAB9;
+    background: radial-gradient(circle at center, #fffde7, #ff8f00);
 }
 
 img {
